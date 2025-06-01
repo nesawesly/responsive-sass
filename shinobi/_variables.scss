@@ -1,0 +1,36 @@
+$primary : #326dee;
+$secondary: #1ac888;
+$error: #d32752;
+$info: #f6c31c;
+$blue: #1919e6;
+
+
+// spacing
+
+$base-padding: 0.75 rem;
+$base-margin: 0.75 rem;
+
+// borders
+
+$base-border-thickness: 1px;
+$base-border-radius: 20px;
+
+// box-shadow
+
+$base-box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+
+// font sizes
+
+$base-font-size: 1rem;
+
+$colors: (
+    'primary': $primary,
+    'secondary':$secondary,
+    'error': $error,
+    'blue': $blue,
+    'black': black,
+    
+    
+)
+
+
